@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455a64</color>
+    <color name="colorPrimaryDark">#1c313a</color>
+    <color name="colorAccent">#718792</color>
+    <!-- Background colours for the fragments -->
+    <color name="fragment_history">#00796B</color>
+    <color name="fragment_sights">#448AFF</color>
+    <color name="fragment_food">#D32F2F</color>
+    <color name="fragment_nightlife">#303F9F</color>
+</resources>

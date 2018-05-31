@@ -1,0 +1,68 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=NONE] -->
+    <string name="app_name">Belgrade Tour Guide</string>
+
+    <!-- Category name for history [CHAR LIMIT=10] -->
+    <string name="history_fragment">History</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=10] -->
+    <string name="sights_fragment">Sights</string>
+
+    <!-- Category name for food [CHAR LIMIT=10] -->
+    <string name="food_fragment">Food</string>
+
+    <!-- Category name for nightlife [CHAR LIMIT=10] -->
+    <string name="nightlife_fragment">Nightlife</string>
+
+    <!-- History information [CHAR LIMIT=NONE] -->
+    <string name="history">Welcome to Serbia!\n\nSitting in the heart of the Balkans, The Republic of Serbia has a rich history and culture that is best discovered by visiting this fascinating country.\n\nBelgrade (which translates to \"white city\" in Serbian) is the capital, as well as the largest, city of Serbia, with a population of around 1.2 million people. </string>
+
+    <!-- History information two [CHAR LIMIT=NONE] -->
+    <string name="history_two">Belgrade has been a battleground city for a large part of its history. Occupied by the Byzantine Empire during the Middle Ages, it served as a battleground between different kingdoms and empires for many centuries.\n\nBy the late 14th century, the Ottoman Empire began conquering Serbia, eventually making its way to and seizing Belgrade in 1521. Most of the city was demolished, and its Serbian population, which was predominantly Orthodox Christian, were deported to Istanbul.</string>
+
+    <!-- History information three [CHAR LIMIT=NONE] -->
+    <string name="history_three">In the early 19th century, Serbian revolutionaries began an uprising, eventually reaching semi-independence in 1830. For the rest of the 19th century, Belgrade started changing as it became influenced less by the Ottoman Empire, and more by Central and Western European architecture, as well as romanticist and gothic architecture.</string>
+
+    <!--History information four [CHAR LIMIT=NONE] -->
+    <string name="history_four">In the 20th century, Belgrade suffered greatly at the hands of the two World Wars, leaving it with more than 10,000 destroyed buildings and houses. Construction works to rebuild Belgrade began after World War 2 but were heavily influenced by the socialist Yugoslavia of which Serbia was a part.\n\nAs a result, Belgrade\'s architecture is wildly varied and walking its streets will provide an interesting and insightful look into its tumultuous history.\n\nWe hope you enjoy your visit to Belgrade!</string>
+
+    <!-- Sights information [CHAR LIMIT=NONE] -->
+    <string name="sights">The first place that most people visit is the main pedestrian street, Knez Mihailova, and the nearby Kalemegdan Park. The park houses a very important Serbian monument, the Belgrade Fortress, and it is a popular meet and hang out spot for tourists and locals alike. Stroll down Knez Mihailova for some light shopping and sit in one of the numerous cafes which are full in both winter and summer, and then go for a walk and learn some history in the beautiful Kalemegdan Park.\n\nLocal\'s tip: Visit at sunset for incredible views over the meeting point of the Sava and Danube rivers.\n\nKalemegdan bb 11000, Belgrade.</string>
+
+    <!-- Sights information [CHAR LIMIT=NONE] -->
+    <string name="sights_two">The Church of Saint Sava is the largest Orthodox church in Serbia, and one of the largest in the world. It can be seen from all over the city, but its size and grandness cannot be fully appreciated until you are standing right in front of it.\n\nLocal\'s tip: Once you are inside, head downstairs to the crypt. It is free to visit and absolutely beautiful.\n\nThe Church of Saint Sava, Krušedolska 2a, Vračar, Belgrade.</string>
+
+    <!-- Sights information [CHAR LIMIT=NONE] -->
+    <string name="sights_three">While you\'re in Belgrade, you will undoubtedly walk through many quirky and interesting areas of the city - walking is the best way to discover a city after all! However, one of the lesser visited, but more beautiful areas, is Zemun. Located on the West side of the Sava river, Zemun is known for its many squares and old, cobblestone streets.\n\nLocal\'s tip: Take a leisurely afternoon stroll and visit the Gardos Tower at night.\n\nGardos Tower, Grobljanska 9, Belgrade.</string>
+
+    <!-- Food information [CHAR LIMIT=NONE] -->
+    <string name="food">Serbian food will leave an impression on all visitors. From bakeries selling all kinds of delicious pastries, to fast-food kiosks will a variety of meat cooked in different ways, to ethnic restaurants specialising in Serbian cuisine, you won\'t struggle to find your new favourite meal.\n\nHere are our favourites.</string>
+
+    <!-- Food information [CHAR LIMIT=NONE] -->
+    <string name="food_two">Milosev Konak:\n\nThis is a typically Serbian restaurant, serving all the nation\'s favourites. It\'s located in the middle of the beautiful Topcider Park, so you can stop by for a hearty meal after a stroll through the park.\n\nMilosev Konak, Topciderska, Belgrade.</string>
+
+    <!-- Food information [CHAR LIMIT=NONE] -->
+    <string name="food_three">Trpkovic Bakery:\n\nA favourite amongst locals, it\'s not uncommon to see lines winding down the street outside this bakery, especially in the morning while the burek (a cheese pastry) is still hot. Local\'s tip: try as much as you can.\n\nTrpkovic Bakery, Nemanjina 32, Belgrade.</string>
+
+    <!-- Food information [CHAR LIMIT=NONE] -->
+    <string name="food_four">Zavicaj:\n\nLocated in the heart of the trendy Savamala district, this restaurant serves authentic Serbian home-made food in a traditional setting - the kind you would get at your grandma\'s place.\n\nZavicaj, Gavrila Principa 77, Belgrade.</string>
+
+    <!-- Food information [CHAR LIMIT=NONE] -->
+    <string name="food_five">Ferdinand Knedle:\n\nAfter you have eaten Serbian meat to your heart\'s content, it\'s time for dessert. A favourite among young locals is dumplings - but not in the way you know them. Savoury or sweet, they are filled with a variety of flavours and rolled in crumbed nuts and chocolate. Order two!\n\nFerdinand Knedle, Cara Lazara 19, Belgrade.</string>
+
+    <!-- Nightlife information [CHAR LIMIT=NONE] -->
+    <string name="nightlife">A trip to Belgrade wouldn\'t be complete without a taste of what it has to offer at nighttime. Serbian people like to go out late and stay out late - and this is made possible by the hundreds of cafe-turn-bars and nightclubs that stay open until their last patrons leave. Start at a \"kafic\", a Serbian cafe by day and bar by night, before making your way to a \"splav\", a floating club.\n\nLocated all along the Sava river, splavs are truly unique to Serbia and provide a night out like you haven\'t ever experienced. Book in advance to reserve a table and avoid getting turned away at the door.</string>
+
+    <!-- Nightlife information [CHAR LIMIT=NONE] -->
+    <string name="nightlife_two">Freestyler\nUsce BB, Belgrade</string>
+
+    <!-- Nightlife information [CHAR LIMIT=NONE] -->
+    <string name="nightlife_three">Splav Hot Mess\nUsce BB, Belgrade</string>
+
+    <!-- Nightlife information [CHAR LIMIT=NONE] -->
+    <string name="nightlife_four">Time Out\nAda Ciganlija, lokal 6, Belgrade</string>
+
+    <!-- Nightlife information [CHAR LIMIT=NONE] -->
+    <string name="nightlife_five">Splav Sindikat\nSajamski Kej BB, Belgrade</string>
+
+</resources>
